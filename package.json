@@ -1,0 +1,20 @@
+{
+  "name": "tn-truffle-test-utils",
+  "version": "1.0.0",
+  "description": "Some handy functions to help out with writing tests in Truffle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "truffle",
+    "test",
+    "mocha",
+    "utils",
+    "ethereum",
+    "dapps",
+    "testrpc"
+  ],
+  "author": "Tom Nash",
+  "license": "ISC"
+}
