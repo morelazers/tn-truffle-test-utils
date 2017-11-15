@@ -1,6 +1,6 @@
 {
   "name": "tn-truffle-test-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some handy functions to help out with writing tests in Truffle",
   "main": "index.js",
   "scripts": {
