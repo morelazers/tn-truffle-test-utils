@@ -1,6 +1,6 @@
 {
   "name": "tn-truffle-test-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some handy functions to help out with writing tests in Truffle",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "testrpc"
   ],
   "author": "Tom Nash",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/morelazers/tn-truffle-test-utils.git"
+  }
 }
