@@ -8,7 +8,7 @@ let funcs = {
    */
   deploy: async (contract, ...args) => {
     let txObj = args[args.length - 1]
-    if (typeof txObj === 'object') {
+    if (typeof txObj !== 'object') {
       txObj = { from: web3.eth.accounts[0] }
       args.push(txObj)
     }
